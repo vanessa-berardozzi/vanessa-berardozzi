@@ -1,37 +1,25 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanessa-berardozzi&label=Profile%20views&color=0e75b6&style=flat" alt="vanessa-berardozzi" /> </p>
+# Vanessa Berardozzi
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanessa-berardozzi&theme=" alt="vanessa-berardozzi" /></a> </p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvanessa-berardozzi%2Fvanessa-berardozzi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div> <a href="https://www.linkedin.com/in/vanessa-berardozzi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/vanessa-berardozzi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vanessa-berardozzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="vanessa-berardozzi" height="30" width="40" /></a></p>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-berardozzi/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/graphql-icon.svg" alt="Graphql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-</p>
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nessb.webdev@gmail.com)
 
-<h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessa-berardozzi&show_icons=true&locale=en&theme=dracula" alt="vanessa-berardozzi" /></p>
+[![Github](https://img.shields.io/github/followers/vanessa-berardozzi?label=Follow&style=social)](https://github.com/vanessa-berardozzi)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/vanessa-berardozzi">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanessa-berardozzi&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanessa-berardozzi&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanessa-berardozzi&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vanessa-berardozzi&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanessa-berardozzi&theme=2077" height="180em" />
+
+
+
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=1a074c) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&color=1a074c) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&color=1a074c) ![Bootstrap](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&color=1a074c) ![Bootstrap](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&color=1a074c) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual-Studio-Code&color=1a074c) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&color=1a074c) ![Bootstrap](https://img.shields.io/badge/-html5-05122A?style=flat&logo=html5&color=1a074c) ![Bootstrap](https://img.shields.io/badge/-css3-05122A?style=flat&logo=css3&color=1a074c)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanessa-berardozzi&show_icons=true&locale=en&layout=compact" alt="vanessa-berardozzi" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=vanessa-berardozzi&" alt="vanessa-berardozzi" />
 </div>
+
+
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
