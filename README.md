@@ -1,15 +1,10 @@
 <h2 align="center">Hello! 👋🏽 I'm Vanessa,  backend developper  👩🏽‍💻<br>Welcome to my Github profile !</h2>
 
 ###
-
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/vanessa-berardozzi/vanessa-berardozzi/output/snake.svg" alt="Snake animation" />
-
 ###
-
 <br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
