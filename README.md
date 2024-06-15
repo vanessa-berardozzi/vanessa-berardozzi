@@ -1,6 +1,6 @@
 
 <div align="left">
-<h1> Hello! 👋🏽 I'm Vanessa, backend developper  👩🏽‍💻<br>A passionate backend developer from France  </h1>
+<h1> Hello! 👋🏽 I'm Vanessa  👩🏽‍💻<br>A passionate backend developer from France  </h1>
 <br clear="both">
 
 
