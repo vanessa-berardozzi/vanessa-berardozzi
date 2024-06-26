@@ -21,7 +21,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 
-<p align="left">- 🔭 I’m looking for an apprenticeship  or full time job as backend developper<br>- 📚 Currently learning Nest.js and Java<br>- ✨ Portfolio comming soon</p>
+<p align="left">- 🔭 I’m looking for an apprenticeship  or full time job as backend developper<br>- 📚 Currently learning Nest.js and Java<br></p>
 
 <br clear="both">
 
