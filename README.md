@@ -1,6 +1,6 @@
 
 <div align="left">
-<h1> Hello! 👋🏽 I'm Vanessa  👩🏽‍💻<br>A passionate backend developer from France  </h1>
+<h1> Hello! 👋🏽 I'm Vanessa  👩🏽‍💻<br>A passionate developer from France  </h1>
 <br clear="both">
 
 
@@ -21,7 +21,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 
-<p align="left">- 🔭 I’m looking for an apprenticeship  or full time job as backend developper<br>- 📚 Currently working on a Next.js project <br></p>
+<p align="left">- 🔭 I’m looking for an apprenticeship  or full time job as fullstack developper<br>- 📚 Currently working on a Next.js project <br></p>
 
 <br clear="both">
 
